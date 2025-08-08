@@ -1,0 +1,54 @@
+Status	Vulnerability	CWE ID
+✅	Code Injection	94
+✅	Command Injection	77
+✅	Connection String Injection	99
+✅	Dangerous File Inclusion	829
+✅	LDAP Injection	90
+✅	Reflected XSS	79
+✅	Resource Injection	99
+✅	Second Order SQL Injection	89
+✅	SQL Injection	89
+✅	Stored XSS	79
+
+Status	Vulnerability	CWE ID
+✅	CSRF	352
+✅	DoS by Sleep	834
+✅	Improper Restriction of XXE Ref	611
+✅	Parameter Tampering	472
+✅	Path Traversal	22
+✅	Privacy Violation	359
+✅	Stored Code Injection	94
+✅	Stored Command Injection	77
+✅	Stored LDAP Injection	90
+✅	Stored Path Traversal	22
+✅	Uncontrolled Format String	134
+✅	Uncontrolled Memory Allocation	789
+✅	Unprotected Transport of Credentials	523
+✅	Use Of Hardcoded Password	259
+✅	Use of Two Argument Form of Open	77
+
+Status	Vulnerability	CWE ID
+❌	Compromised CDN	0
+❌	Deprecated Functions or Properties	477
+❌	Deprecated Modules or Libraries	477
+❌	Improper Filtering of Special Elements	790
+❌	Information Exposure Through an Error Message	209
+✅	Log Forging	117
+✅	Not Checking Regular Expressions Results	252
+✅	Overloading Reserved Keywords or Subroutines	398
+✅	Permissive Regular Expression	625
+❌	Prohibit Indirect Object Call Syntax	665
+❌	Signifying Inheritence At Runtime	398
+✅	Unchecked Return Value	252
+✅	Use of Broken or Risky Cryptographic Algorithm	327
+✅	Variables Outside The Scope of a Regex	824
+
+
+Status	Vulnerability	CWE ID
+✅	Empty Methods	398
+✅	Hardcoded Absolute Path	426
+✅	Prepending Leading Zeroes To Integer Literals	665
+✅	Reusing Variable Names In Subscopes	398
+❌	Using Perl4 Package Names	477
+✅	Using Subroutine Prototypes	628
+
